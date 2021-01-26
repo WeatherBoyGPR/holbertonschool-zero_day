@@ -1,0 +1,1 @@
+there is a slight delay when I open up emacs, that i've noticed.
